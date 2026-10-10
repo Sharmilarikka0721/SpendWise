@@ -1,0 +1,85 @@
+[
+ {"id":"needs-vs-wants","emoji":"⚖️","title":"Needs vs wants","minutes":3,
+  "summary":"Sort spending in a way that fits your life, not someone else's rulebook.",
+  "sections":[
+   {"heading":"There is no universal line","text":"A phone plan can be a need for a student who studies online and a want for someone who barely uses data. A needs-vs-wants label depends on your situation, your goals and your values."},
+   {"heading":"Three buckets work well","text":"Try essential (things you must pay), flexible (useful, but you can adjust the amount) and treats (things you do for joy). Treats are a healthy part of a plan when you decide on them in advance."}],
+  "tips":["Label each category once in Settings, then revisit it every few months.","Ask: what happens if I skip this for a month?"],
+  "reflect":"Which category would you never cut, even in a tight month?",
+  "quiz":[
+   {"q":"Which statement about needs and wants is the most accurate?","options":["Everyone has the same list of needs","Your needs and wants depend on your own situation","Wants are always a waste of money","Needs never change"],"answer":1,"why":"The same purchase can be a need for one person and a want for another."},
+   {"q":"What is the point of a 'treats' bucket?","options":["To feel guilty about fun spending","To plan enjoyment on purpose so it doesn't break your budget","To avoid tracking certain expenses","To replace savings"],"answer":1,"why":"Planned treats are sustainable. Budgets with no room for fun are the ones people abandon."},
+   {"q":"You can't decide if a purchase is a need. What's a useful test?","options":["Ask a friend to decide","Buy it and see","Ask what happens if you skip it for a month","Check if it's on sale"],"answer":2,"why":"Thinking through the real consequence of skipping helps separate must-haves from nice-to-haves."}]},
+ {"id":"budgeting","emoji":"🧮","title":"Budgeting basics","minutes":4,
+  "summary":"A budget is a plan for your money, not a punishment.",
+  "sections":[
+   {"heading":"Start from your real numbers","text":"Look at last month's income and spending before you set limits. A limit based on what you actually spend is one you can keep."},
+   {"heading":"Monthly limit plus category limits","text":"Set one overall monthly limit, then give the categories that matter most their own limit. Leave a little room for surprises."},
+   {"heading":"A popular starting split","text":"The 50/30/20 idea suggests 50% essentials, 30% flexible and treats, and 20% savings. Treat it as a starting point and adapt it to your income."}],
+  "tips":["Review your budget once a week for five minutes.","If you often go over a limit, raise it honestly instead of ignoring it."],
+  "reflect":"Which one category deserves its own budget this month?",
+  "quiz":[
+   {"q":"Where should you start when setting a budget?","options":["A number you saw online","Your real past income and spending","Zero for everything","Your friend's budget"],"answer":1,"why":"Limits built on real data are realistic."},
+   {"q":"In the 50/30/20 idea, what does the 20 stand for?","options":["Savings","Entertainment","Rent","Shopping"],"answer":0,"why":"20% goes to savings or paying down debt."},
+   {"q":"You keep going over your food budget. What's a good response?","options":["Stop tracking","Check whether the limit was realistic and adjust it","Feel bad about it","Remove the budget"],"answer":1,"why":"Budgets are tools. Adjust them when real life shows they don't fit."}]},
+ {"id":"impulse-buying","emoji":"🛒","title":"Impulse buying","minutes":3,
+  "summary":"Pause long enough to know if you really want it.",
+  "sections":[
+   {"heading":"Why impulses happen","text":"Sales banners, one-tap checkout and boredom all make buying feel urgent. The urge usually fades quickly."},
+   {"heading":"The waiting rule","text":"For non-essential purchases, wait 24 hours (or 7 days for bigger ones). If you still want it afterwards, buy it guilt-free. Many urges disappear."},
+   {"heading":"Not every impulse is bad","text":"Some spontaneous purchases bring real joy. The goal is awareness: notice which ones you're glad about and which you regret."}],
+  "tips":["Keep a wish list and review it weekly.","Mark purchases as 'impulse' in SpendWise to see your own pattern."],
+  "reflect":"Think of your last impulse purchase. Are you happy you made it?",
+  "quiz":[
+   {"q":"What does the waiting rule suggest?","options":["Never buy anything extra","Wait before buying non-essentials","Buy immediately on sale","Ask your bank"],"answer":1,"why":"Time between wanting and buying lets the urge fade."},
+   {"q":"Are all impulse purchases bad?","options":["Yes, always","No, awareness matters more than avoidance","Only online ones","Only above ₹500"],"answer":1,"why":"Some bring real value. Tracking helps you learn which ones you don't regret."},
+   {"q":"Which habit helps reduce impulse buying?","options":["Saving card details everywhere","Keeping a wish list","Shopping when bored","Following more sale pages"],"answer":1,"why":"A wish list adds a pause before purchase."}]},
+ {"id":"saving-money","emoji":"🐖","title":"Saving money","minutes":4,
+  "summary":"Small, steady savings beat big, rare ones.",
+  "sections":[
+   {"heading":"Pay yourself first","text":"Move a fixed amount to savings when money arrives, before you spend. Even ₹200 a week adds up to over ₹10,000 a year."},
+   {"heading":"Give savings a name","text":"A goal like 'Laptop ₹40,000 by June' is easier to protect than a vague wish to save more. Track progress to stay motivated."},
+   {"heading":"Automate and forget","text":"A fixed transfer on a fixed day removes the daily decision."}],
+  "tips":["Start smaller than you think you need to.","Celebrate milestones, like 25% of a goal."],
+  "reflect":"What would you like to save for in the next six months?",
+  "quiz":[
+   {"q":"What does 'pay yourself first' mean?","options":["Spend on yourself first","Save a fixed amount before spending","Pay bills last","Skip savings"],"answer":1,"why":"Saving first makes it automatic rather than leftover."},
+   {"q":"₹200 saved every week is about how much in a year?","options":["₹2,000","₹5,000","₹10,400","₹50,000"],"answer":2,"why":"₹200 × 52 weeks = ₹10,400."},
+   {"q":"Why name a savings goal?","options":["It looks nice","A specific goal is easier to protect and track","Banks require it","It earns more interest"],"answer":1,"why":"Specific goals keep you motivated."}]},
+ {"id":"recurring-expenses","emoji":"🔁","title":"Understanding recurring expenses","minutes":3,
+  "summary":"Small regular payments quietly shape your whole month.",
+  "sections":[
+   {"heading":"What counts as recurring","text":"Rent, phone plans, subscriptions, memberships and EMIs repeat on a schedule. Because they renew automatically, they're easy to forget."},
+   {"heading":"Look at the yearly cost","text":"₹199 a month sounds small, but it's ₹2,388 a year. Multiply by twelve to judge whether something is worth keeping."},
+   {"heading":"Plan for them first","text":"Subtract recurring costs from income before deciding on flexible spending. What remains is your real freedom."}],
+  "tips":["List all recurring payments once and put the dates in your calendar."],
+  "reflect":"Which recurring payment brings you the most value?",
+  "quiz":[
+   {"q":"A ₹199 monthly subscription costs about how much per year?","options":["₹199","₹1,200","₹2,388","₹5,000"],"answer":2,"why":"₹199 × 12 = ₹2,388."},
+   {"q":"Why are recurring payments easy to overlook?","options":["They are cheap","They renew automatically","They are illegal","They never change"],"answer":1,"why":"Auto-renewal means no fresh decision each time."},
+   {"q":"What should you subtract first when planning a month?","options":["Treats","Recurring costs","Savings goals","Nothing"],"answer":1,"why":"Fixed commitments define how much is actually flexible."}]},
+ {"id":"emergency-fund","emoji":"🛟","title":"Building an emergency fund","minutes":4,
+  "summary":"A small cushion turns a crisis into an inconvenience.",
+  "sections":[
+   {"heading":"What it is","text":"An emergency fund is money set aside only for surprises: a medical bill, a phone repair, a sudden trip home."},
+   {"heading":"How much","text":"A common target is 3 to 6 months of essential expenses. If that feels huge, start with one week of essentials, then one month."},
+   {"heading":"Keep it separate","text":"Hold it in a separate account or goal so it isn't mixed with everyday spending. Refill it after you use it."}],
+  "tips":["Create an 'Emergency fund' goal in SpendWise and add a small amount weekly."],
+  "reflect":"What are your essential expenses in a typical month?",
+  "quiz":[
+   {"q":"An emergency fund is for…","options":["Sales","Unexpected, necessary costs","Gadgets","Holidays"],"answer":1,"why":"It protects you from surprises."},
+   {"q":"A common long-term target is…","options":["1 day of expenses","3–6 months of essentials","1 year of treats","₹100"],"answer":1,"why":"Three to six months of essentials gives a real cushion."},
+   {"q":"If a full fund feels too big, you should…","options":["Give up","Start with one week of essentials","Borrow","Wait for a bonus"],"answer":1,"why":"Small starting targets build the habit."}]},
+ {"id":"subscriptions","emoji":"📺","title":"Avoiding unnecessary subscriptions","minutes":3,
+  "summary":"Keep the ones you love, drop the ones you forgot.",
+  "sections":[
+   {"heading":"Audit regularly","text":"Once a quarter, list every subscription: streaming, music, apps, cloud storage, gym. Ask when you last used each."},
+   {"heading":"Rotate instead of stacking","text":"You can pause or switch streaming services month to month instead of paying for several at once."},
+   {"heading":"Watch free trials","text":"Free trials often convert to paid plans. Set a reminder for a day before the trial ends."}],
+  "tips":["Use the 'Bills and subscriptions' category to spot repeating charges.","Share family plans where the terms allow it."],
+  "reflect":"Which subscription would you miss least?",
+  "quiz":[
+   {"q":"How often should you review subscriptions?","options":["Never","About once a quarter","Only when broke","Every day"],"answer":1,"why":"A regular audit catches forgotten charges."},
+   {"q":"What helps with free trials?","options":["Ignore them","A reminder before the trial ends","Add more trials","Pay in advance"],"answer":1,"why":"A reminder lets you cancel before the first charge."},
+   {"q":"Is keeping a subscription you use and enjoy a bad choice?","options":["Yes","No, value for you is what matters","Only if it's streaming","Only if it's under ₹200"],"answer":1,"why":"The goal is paying for things you actually value."}]}
+]

@@ -1,0 +1,14 @@
+{
+  "name": "spendwise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SpendWise: scan to pay, say why you spend, and build better money habits",
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "db": "docker compose up -d",
+    "seed": "npm --prefix server run seed",
+    "dev": "node scripts/dev.js",
+    "build": "npm --prefix client run build",
+    "test": "npm --prefix server test && npm --prefix client test"
+  }
+}
